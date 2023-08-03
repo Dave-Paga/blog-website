@@ -79,4 +79,5 @@ input {
   border: 1px solid #ddd;
   border-radius: 5px;
   background-color: #fff;
+  border-bottom: 1px solid #ccc;
 }
